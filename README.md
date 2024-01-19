@@ -7,3 +7,4 @@ To run the project locally, follow these steps:
 3. Run `npm install` to install the required dependencies.
 4. Configure the database connection in the backend using Prisma.
 5. Start the frontend and backend using `npm start`.
+6. set emv variables frontend and backend
