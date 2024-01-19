@@ -40,8 +40,12 @@ const Header = () => {
             <div className="flex items-center gap-3">
             
               <div>
-                <h2 className="text-[16px] font-normal">Offer</h2>
-                <p className="text-[12px]">latest offer</p>
+                <a href="recipeform">
+              <div>
+                <h2 className="text-[16px] font-normal">Recipe</h2>
+                <p className="text-[12px]">Form</p>
+              </div>
+              </a>
               </div>
             </div>
             <div className="flex items-center gap-3">
